@@ -1,4 +1,4 @@
-# T-FLIPFLOP-POSEDGE
+# T FLIPFLOP POSEDGE
 
 **AIM:**
 
@@ -71,6 +71,7 @@ endmodule
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
+
 ![image](https://github.com/user-attachments/assets/504e9fdb-5fc6-439f-b036-8607181510f7)
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
